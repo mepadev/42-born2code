@@ -1,0 +1,3 @@
+[submodule "42-libft"]
+	path = 42-libft
+	url = git@github.com:mepamaze/42-libft.git
